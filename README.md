@@ -8,13 +8,13 @@ A CLI Rock Paper Scissors game.
 2. Download [game.py](src/game.py)
 3. Run the following command:
 
-```Python
+```Powershell
 python game.py
 ```
 
 If the previous command didn't work, try
 
-```Python
+```Powershell
 python3 game.py
 ```
 
