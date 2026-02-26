@@ -5,7 +5,7 @@ A CLI Rock Paper Scissors game.
 ## Installation
 
 1. You must have [python](https://python.org) installed.
-2. Download [game.py](src/game.py)
+2. Download [game.py](src/game.py).
 3. Run the following command:
 
 ```Powershell
